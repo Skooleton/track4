@@ -3,4 +3,4 @@ import time
 import lib as lb
 
 print("Good day & Hello Clarissa")
-lb.types("Electronics")
+lb.types("Electrical")
